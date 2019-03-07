@@ -1,13 +1,13 @@
-Used technologies
+- Used technologies
 
-- Programming Language : JAVA (version 1.8), JAVA EE (version 8.0) & JSTL (version 1.2)
-- Database : MySQL (version 8.0.11) & MySQL Connector (version 8.0.13)
-- Framework : Spring (version 4.3.20.RELEASE), Hibernate (version 5.3.7.Final), Bootstrap (version 4.1.1)
-- Unit Testing : jUnit (version 4.12)
-- Buildtool : Maven (version 4.0.0)
+Programming Language : JAVA (version 1.8), JAVA EE (version 8.0) & JSTL (version 1.2)
+Database : MySQL (version 8.0.11) & MySQL Connector (version 8.0.13)
+Framework : Spring (version 4.3.20.RELEASE), Hibernate (version 5.3.7.Final), Bootstrap (version 4.1.1)
+Unit Testing : jUnit (version 4.12)
+Buildtool : Maven (version 4.0.0)
 
 
-Database
+- Database
 
 There are two tables employee and progLang.
 
@@ -29,7 +29,8 @@ progLang VARCHAR(255);
 ProgLang table contains list of programming language that will be choosed by employee as employee's skill.
 
 
-Using program
+- Using program
+
 In the main page there is a table containing list of employees data and there are some buttons that can be used to do
 CRUD operation.
 
