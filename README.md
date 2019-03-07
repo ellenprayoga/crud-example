@@ -1,12 +1,14 @@
 Used technologies
-Programming Language : JAVA (version 1.8), JAVA EE (version 8.0) & JSTL (version 1.2)
-Database : MySQL (version 8.0.11) & MySQL Connector (version 8.0.13)
-Framework : Spring (version 4.3.20.RELEASE), Hibernate (version 5.3.7.Final), Bootstrap (version 4.1.1)
-Unit Testing : jUnit (version 4.12)
-Buildtool : Maven (version 4.0.0)
+
+- Programming Language : JAVA (version 1.8), JAVA EE (version 8.0) & JSTL (version 1.2)
+- Database : MySQL (version 8.0.11) & MySQL Connector (version 8.0.13)
+- Framework : Spring (version 4.3.20.RELEASE), Hibernate (version 5.3.7.Final), Bootstrap (version 4.1.1)
+- Unit Testing : jUnit (version 4.12)
+- Buildtool : Maven (version 4.0.0)
 
 
 Database
+
 There are two tables employee and progLang.
 
 employee table
